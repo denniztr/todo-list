@@ -1,6 +1,6 @@
 <h1>Todo list</h1>
 
-<p>Simple to-do application that allows user create to-do items and mark them as done.</p>
+<p>Simple to-do application that allows user to create to-do items and mark them as done.</p>
 
 - Next.js
 - React
