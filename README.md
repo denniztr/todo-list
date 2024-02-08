@@ -5,6 +5,8 @@
 - Next.js
 - React
 - prisma
+- tailwind
+- TypeScript
 
 ## Getting started
 
